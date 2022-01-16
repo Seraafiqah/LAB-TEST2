@@ -1,0 +1,32 @@
+package Labtest;
+
+import java.util.Scanner;
+
+public class q3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner (System.in);
+		
+		int oddnum;
+		int evennum;
+		int num;
+		
+		
+		System.out.println("Enter number: ");
+		num = sc.nextInt();
+		
+		if(num%2 != 0) {
+			System.out.println(num%2 + " is oddnum");
+		}
+			else if(num%2 ==0) {
+				System.out.println(num%2 + " is evennum");
+				
+				System.out.println("BYE!");
+			}
+		}
+		
+
+	}
+
+
