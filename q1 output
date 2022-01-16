@@ -7,3 +7,23 @@ Enter number:
 1
 1 is oddnum
 BYE!
+
+Enter number: 
+88
+0 is evennum
+BYE!
+
+Enter number: 
+99
+1 is oddnum
+BYE!
+
+Enter number: 
+-1
+-1 is oddnum
+BYE!
+
+Enter number: 
+-2
+0 is evennum
+BYE!
