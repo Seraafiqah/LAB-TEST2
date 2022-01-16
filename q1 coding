@@ -21,9 +21,8 @@ public class q3 {
 		}
 			else if(num%2 ==0) {
 				System.out.println(num%2 + " is evennum");
-				
-				System.out.println("BYE!");
 			}
+		System.out.println("BYE!");
 		}
 		
 
